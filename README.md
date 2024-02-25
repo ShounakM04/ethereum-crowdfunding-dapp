@@ -26,7 +26,7 @@ Excited to dive in? Follow these steps to get your development environment set u
 1. **Clone the Repository:**
 
    ```bash
-   git clone <https://github.com/ShounakM04/ethereum-crowdfunding-dapp>
+   git clone https://github.com/ShounakM04/ethereum-crowdfunding-dapp
    cd ethereum-crowdfunding-dapp
 
 2. **Install Dependencies**
